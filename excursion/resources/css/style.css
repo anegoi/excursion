@@ -5,11 +5,13 @@ body {
     color: white;
   }
   
+   /* LINK */
   .cta {
     color: aquamarine;
     font-size: 16px;
   }
   
+  /* HEADING */
   h1 {
     font-size: 50px;
     font-weight: normal;
